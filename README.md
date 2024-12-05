@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjeet Goswami</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile%20views&color=0e75b6&style=flat" alt="parasharr" /> </p>
+
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/parasharr/Final_year_Project)
 
@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true&locale=en" alt="parasharr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parasharr&" alt="parasharr" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile%20views&color=0e75b6&style=flat" alt="parasharr" /> </p>
