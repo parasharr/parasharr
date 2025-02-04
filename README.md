@@ -12,6 +12,8 @@
 - 📫 How to reach me **pranjeetgoswami999@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://pranjeetgoswami.tiiny.site/)
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-zeta-nine-82.vercel.app/)
 
 - ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
 
