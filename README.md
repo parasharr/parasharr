@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile%20views&color=0e75b6&style=flat" alt="parasharr" /> </p>
 
-- 🔭 I’m currently working on [NayaNirvana](https://github.com/parasharr/NayaNirvana-by-NextJs_ReactJs)
+- 🔭 I’m currently focusing on [Our Own Product]
 
-- 🌱 I’m currently learning **Dart, Flutter & Python**
+- 🌱 I’m currently learning **Dart, Flutter & Threejs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-zeta-nine-82.vercel.app](https://portfolio-zeta-nine-82.vercel.app)
 
