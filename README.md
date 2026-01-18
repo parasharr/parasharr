@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-zeta-nine-82.vercel.app/)
 
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAG-Y7GfEI8/-FQfq_4XUjQTfAspGaBoAw/view?utm_content=DAG-Y7GfEI8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd3eb7a8352)
+
 - 📫 How to reach me **pranjeetgoswami999@gmail.com**
 
 - ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
