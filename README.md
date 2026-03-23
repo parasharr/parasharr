@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile%20views&color=0e75b6&style=flat" alt="parasharr" /> </p>
 
-- 🔭 I’m currently working as **Freelancer**
+- 🔭 I’m currently working as **Tech Lead at <a href="https://groxstudio.com">Grox Studio</a>**
 
 - 🌱 I’m currently learning **Dart, Flutter & Threejs**
 
