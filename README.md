@@ -1,32 +1,64 @@
-<h1 align="center">Hi, I'm Pranjeet Goswami</h1>
-<h3 align="center">A Passionate Full-stack Developer & Freelancer from India</h3>
+<h1 align="center">Pranjeet Goswami</h1>
+<h3 align="center">Tech Lead • Full-Stack Developer • Flutter Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile%20views&color=0e75b6&style=flat" alt="parasharr" /> </p>
-
-- 🔭 I’m currently working as **Tech Lead at <a href="https://groxstudio.com">Grox Studio</a>**
-
-- 🌱 I’m currently learning **Dart, Flutter & Threejs**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-zeta-nine-82.vercel.app/)
-
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAG-Y7GfEI8/-FQfq_4XUjQTfAspGaBoAw/view?utm_content=DAG-Y7GfEI8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd3eb7a8352)
-
-- 📫 How to reach me **pranjeetgoswami999@gmail.com**
-
-- ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/pranjeetgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/pranjeetgoswami" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pranjeet.dev/?igsh=zmcyemrla3zuzmqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pranjeet.dev/?igsh=zmcyemrla3zuzmqw" height="30" width="40" /></a>
+<p align="center">
+Building scalable apps, clean architectures, and real-world products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasharr&show_icons=true&locale=en&layout=compact" alt="parasharr" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true&locale=en" alt="parasharr" /></p>
+- 🧠 Tech Lead at **Grox Studio**
+- 💻 Full-stack developer focused on **performance & scalability**
+- 📱 Specialized in **Flutter & cross-platform apps**
+- 🌐 Working with modern web stacks and backend systems
+- ⚙️ Currently exploring **Three.js & advanced UI systems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parasharr&" alt="parasharr" /></p>
+---
 
+## 🧰 Tech Stack
+
+**Frontend**
+- Flutter, React, Next.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express, PHP
+
+**Database**
+- MongoDB, MySQL
+
+**Tools & Platforms**
+- Firebase, Appwrite, Git, Linux, Figma, Postman
+
+---
+
+## 📌 Featured Work
+
+🔗 **Portfolio:**  
+https://portfolio-zeta-nine-82.vercel.app/
+
+📄 **Resume:**  
+https://www.canva.com/design/DAG-Y7GfEI8/-FQfq_4XUjQTfAspGaBoAw/view
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parasharr&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/pranjeetgoswami
+- Instagram: https://www.instagram.com/pranjeet.dev
+- Email: pranjeetgoswami999@gmail.com
+
+---
+
+## ⚡ Fun Fact
+Lego mini-figures outnumber humans 🚀
