@@ -35,11 +35,8 @@ Building scalable apps, clean architectures, and real-world products.
 
 ## 📌 Featured Work
 
-🔗 **Portfolio:**  
-https://portfolio-zeta-nine-82.vercel.app/
-
 📄 **Resume:**  
-https://www.canva.com/design/DAG-Y7GfEI8/-FQfq_4XUjQTfAspGaBoAw/view
+[Click](https://canva.link/2wssw77i7ilse2l)
 
 ---
 
