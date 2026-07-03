@@ -2,78 +2,76 @@
 
 # 👋 Hey, I'm Pranjeet Goswami
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Tech+Lead+@+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+products+that+actually+scale.;AI-powered+development+⚡" />
-
-### Turning ideas into products people love to use.
-
-Building with **MERN**, **Next.js**, **Flutter** & **AI** while keeping everything fast, scalable, and built to last.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=4F8BFF&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Tech+Lead+%40+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Powered+by+AI+%E2%9A%A1" />
 
 <p>
-
-<a href="https://www.linkedin.com/in/pranjeetgoswami">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pranjeetgoswami999@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/pranjeet.dev">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+Building products that don't just look good —
+<b>they perform, scale, and solve real problems.</b>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```ts
 const pranjeet = {
-  role: "Co-Founder & Tech Lead @ Grox Studio",
-
-  building: [
-    "Scalable Web Apps",
-    "Cross-platform Mobile Apps",
-    "Modern SaaS Products"
-  ],
-
-  stack: [
-    "React",
-    "Next.js",
-    "Flutter",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "TypeScript"
-  ],
-
-  workflow: [
-    "Vibe Coding 🤝 AI",
-    "Clean Architecture",
-    "Performance-first",
-    "Scalable Systems"
-  ],
-
-  philosophy: "Ship fast. Scale smarter."
+    role: "Co-Founder & Tech Lead @ Grox Studio",
+    code: ["JavaScript","TypeScript","Dart","PHP"],
+    frontend: ["React","Next.js","Flutter","Tailwind CSS"],
+    backend: ["Node.js","Express"],
+    database: ["MongoDB","MySQL","Firebase","Appwrite"],
+    interests: [
+        "AI Workflows",
+        "Vibe Coding",
+        "Smooth UI Animations",
+        "Scalable Architecture"
+    ],
+    motto: "Ship fast. Build clean. Scale forever."
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,mongodb,mysql,ts,js,dart,php,firebase,git,github,linux,figma,postman,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,php" />
+</p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img height="48" src="https://cdn.simpleicons.org/appwrite/f02e65"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -83,43 +81,58 @@ const pranjeet = {
 
 </p>
 
----
+<p align="center">
 
-## 🎯 Current Focus
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasharr&theme=tokyonight&hide_border=true"/>
 
-- 🤖 Building with the latest AI tools
-- ⚡ Shipping products from idea → production
-- 📱 Creating polished Flutter experiences
-- 🌐 Building scalable web apps with Next.js
-- ✨ Smooth animations & thoughtful UX
-- 🚀 Constantly learning, constantly shipping
+</p>
 
 ---
 
-## 🌎 Let's Connect
+# 📊 Contribution Graph
 
 <p align="center">
 
-<a href="https://github.com/parasharr">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasharr&theme=tokyo-night&hide_border=true"/>
 
-&nbsp;&nbsp;
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parasharr&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/parasharr/parasharr/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pranjeetgoswami">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+<a href="https://www.instagram.com/pranjeet.dev">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
 <a href="mailto:pranjeetgoswami999@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/pranjeet.dev">
-<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
@@ -128,8 +141,8 @@ const pranjeet = {
 
 <div align="center">
 
-### *Build. Break. Learn. Repeat.*
+### ⚡ *Code. Design. AI. Scale.*
 
-**Fast doesn't have to be messy.**
+*"Fast doesn't have to be messy."*
 
 </div>
