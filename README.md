@@ -1,28 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Pranjeet%20Goswami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20Tech%20Lead%20@%20Grox%20Studio&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Pranjeet%20Goswami&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%26%20Tech%20Lead%20@%20Grox%20Studio&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;MERN+•+Next.js+•+Flutter+•+TypeScript;AI+Powered+Development+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;MERN+•+Next.js+•+Flutter;Building+Scalable+Digital+Products;AI-Powered+Development"/>
 
-### Building products that don't just look good — **they perform, scale, and solve real problems.**
+### Building products that perform, scale, and solve real problems.
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
 ```ts
-const pranjeet = {
+const me = {
   role: "Co-Founder & Tech Lead @ Grox Studio",
 
-  expertise: [
-    "Web Development",
-    "Mobile App Development",
-    "Backend Architecture"
-  ],
-
-  tech: [
+  stack: [
     "React",
     "Next.js",
     "Flutter",
@@ -32,109 +26,69 @@ const pranjeet = {
     "TypeScript"
   ],
 
-  workflow: [
-    "AI-assisted Development",
+  interests: [
+    "AI Development",
     "Vibe Coding",
-    "Scalable Architecture",
+    "Scalable Systems",
     "Modern UI/UX"
   ],
 
-  currentlyLearning: [
-    "Latest AI Workflows",
-    "Advanced System Design"
-  ],
-
-  motto: "Ship Fast. Build Clean. Scale Forever."
+  motto: "Ship Fast. Build Right."
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,linux,figma,postman,vscode"/>
-<img height="48" src="https://cdn.simpleicons.org/appwrite/F02E65"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasharr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=parasharr&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,mongodb,mysql,ts,js,dart,php,firebase,git,github,linux,figma,postman,vscode" />
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parasharr&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasharr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-- 🤖 AI-assisted Development
-- ⚡ Building scalable SaaS products
-- 📱 Cross-platform mobile apps with Flutter
-- 🌐 Modern web experiences with Next.js
-- 🎨 Smooth animations & polished UI/UX
+- 🤖 AI-assisted development
+- 📱 Cross-platform apps with Flutter
+- 🌐 Modern web applications with Next.js
+- ⚡ Scalable backend architecture
+- ✨ Smooth UI animations & delightful UX
 
 ---
 
-# 🌐 Connect
+# 🌎 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pranjeetgoswami">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/pranjeet.dev">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:pranjeetgoswami999@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
@@ -143,10 +97,8 @@ const pranjeet = {
 
 <div align="center">
 
-## ⚡ *Code • Design • AI • Scale*
+### ⚡ Code • Design • AI • Scale
 
 *"Fast doesn't have to be messy."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4"/>
 
 </div>
