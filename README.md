@@ -2,96 +2,78 @@
 
 # 👋 Hey, I'm Pranjeet Goswami
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=4F8BFF&center=true&vCenter=true&width=750&lines=Co-Founder+%26+Tech+Lead+@+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Products+that+Scale;Powered+by+AI+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Tech+Lead+@+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+products+that+actually+scale.;AI-powered+development+⚡" />
 
-### Building digital products that don't just look good — they perform, scale, and solve real problems.
+### Turning ideas into products people love to use.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-4F46E5?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjeet_Goswami-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranjeetgoswami)
-[![Instagram](https://img.shields.io/badge/@pranjeet.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranjeet.dev)
+Building with **MERN**, **Next.js**, **Flutter** & **AI** while keeping everything fast, scalable, and built to last.
+
+<p>
+
+<a href="https://www.linkedin.com/in/pranjeetgoswami">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pranjeetgoswami999@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pranjeet.dev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```ts
 const pranjeet = {
   role: "Co-Founder & Tech Lead @ Grox Studio",
 
-  focus: [
-    "Full-Stack Web Development",
-    "Mobile Application Development",
-    "Scalable Backend Systems"
+  building: [
+    "Scalable Web Apps",
+    "Cross-platform Mobile Apps",
+    "Modern SaaS Products"
+  ],
+
+  stack: [
+    "React",
+    "Next.js",
+    "Flutter",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "TypeScript"
   ],
 
   workflow: [
-    "AI-assisted Development",
-    "Vibe Coding",
+    "Vibe Coding 🤝 AI",
     "Clean Architecture",
-    "Performance First"
+    "Performance-first",
+    "Scalable Systems"
   ],
 
-  currently: "Building products that scale from MVP to production."
+  philosophy: "Ship fast. Scale smarter."
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,mongodb,mysql,ts,js,dart,php,firebase,git,github,linux,figma,postman,vscode" />
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,linux,figma,postman,vscode"/>
-<img height="48" src="https://cdn.simpleicons.org/appwrite/F02E65"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
-
-### 🚀 Grox Studio
-Building scalable web & mobile products for startups and businesses.
-
-**Tech:** Next.js • Flutter • Node.js • TypeScript
-
----
-
-### 📚 Edukracy
-A modern education platform with attendance, schedules, exams, announcements, and role-based dashboards.
-
-**Tech:** Flutter • Node.js • MongoDB
-
----
-
-### 🛡️ Zeron
-Cybersecurity platform focused on modern UI, performance, and business automation.
-
-**Tech:** Next.js • Tailwind • Strapi
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -103,38 +85,38 @@ Cybersecurity platform focused on modern UI, performance, and business automatio
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- 🤖 AI-assisted development & modern workflows
-- ⚡ Building scalable SaaS products
-- 📱 Flutter applications
-- 🌐 Next.js & MERN ecosystem
-- ✨ Crafting smooth animations & polished UX
-- 🚀 Shipping production-ready software
+- 🤖 Building with the latest AI tools
+- ⚡ Shipping products from idea → production
+- 📱 Creating polished Flutter experiences
+- 🌐 Building scalable web apps with Next.js
+- ✨ Smooth animations & thoughtful UX
+- 🚀 Constantly learning, constantly shipping
 
 ---
 
-# 🌐 Connect
+## 🌎 Let's Connect
 
 <p align="center">
-
-<a href="mailto:pranjeetgoswami999@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/pranjeetgoswami">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/parasharr">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pranjeetgoswami">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:pranjeetgoswami999@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/pranjeet.dev">
 <img src="https://skillicons.dev/icons?i=instagram"/>
@@ -146,12 +128,8 @@ Cybersecurity platform focused on modern UI, performance, and business automatio
 
 <div align="center">
 
-## ⚡ Philosophy
+### *Build. Break. Learn. Repeat.*
 
-> **"Move fast with AI. Build with intention. Scale without compromise."**
-
-<br>
-
-Made with ❤️ using coffee, curiosity, and a lot of AI.
+**Fast doesn't have to be messy.**
 
 </div>
