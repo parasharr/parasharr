@@ -99,26 +99,6 @@ const pranjeet = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parasharr&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/parasharr/parasharr/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # 🌐 Connect
 
 <p align="center">
