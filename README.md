@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Pranjeet Goswami
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=4F8BFF&center=true&vCenter=true&width=700&lines=Co-Founder+%26+Tech+Lead+%40+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Powered+by+AI+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=4F8BFF&center=true&vCenter=true&width=700&lines=Tech+Lead+%40+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Powered+by+AI+%E2%9A%A1" />
 
 <p>
 Building products that don't just look good —
