@@ -1,120 +1,303 @@
 <div align="center">
 
-# 👋 Hey, I'm Pranjeet Goswami
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F8BFF&height=220&section=header&text=PRANJEET%20GOSWAMI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=TECH%20LEAD%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=4F8BFF&center=true&vCenter=true&width=700&lines=Tech+Lead+%40+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Powered+by+AI+%E2%9A%A1" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=4F8BFF&center=true&vCenter=true&width=850&lines=Tech+Lead+%40+Grox+Studio;Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Crafting+Smooth+%26+Interactive+Experiences;Automating+Workflows+with+AI;Turning+Ideas+into+Products+%E2%9A%A1" />
+
+<br>
 
 <p>
-Building products that don't just look good —
-<b>they perform, scale, and solve real problems.</b>
+  <img src="https://komarev.com/ghpvc/?username=parasharr&label=PROFILE+VIEWS&color=4F8BFF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/parasharr?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=4F8BFF"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=parasharr&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+> **I don't just build websites. I build digital products.**
+
+<br>
+
+<a href="https://github.com/parasharr">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/pranjeetgoswami">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/pranjeet.dev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## ⚡ `whoami`
+
+```bash
+┌──(pranjeet㉿developer)-[~/projects]
+└─$ whoami
+
+Pranjeet Goswami
+```
 
 ```ts
-const pranjeet = {
-    role: "Co-Founder & Tech Lead @ Grox Studio",
-    code: ["JavaScript","TypeScript","Dart","PHP"],
-    frontend: ["React","Next.js","Flutter","Tailwind CSS"],
-    backend: ["Node.js","Express"],
-    database: ["MongoDB","MySQL","Firebase","Appwrite"],
-    interests: [
-        "AI Workflows",
-        "Vibe Coding",
-        "Smooth UI Animations",
-        "Scalable Architecture"
-    ],
-    motto: "Ship fast. Build clean. Scale forever."
-}
+const developer = {
+  name: "Pranjeet Goswami",
+
+  role: "Co-Founder & Tech Lead",
+
+  company: "Grox Studio",
+
+  location: "Assam, India",
+
+  focus: [
+    "Full-Stack Development",
+    "Mobile Applications",
+    "AI Automation",
+    "Interactive UI",
+    "Scalable Architecture"
+  ],
+
+  currentlyBuilding: [
+    "AI-powered workflows",
+    "Digital products",
+    "Modern web experiences"
+  ],
+
+  philosophy:
+    "Ship fast. Build clean. Scale forever."
+};
 ```
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-<img height="48" src="https://cdn.simpleicons.org/appwrite/f02e65"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasharr&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasharr&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pranjeetgoswami">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/pranjeet.dev">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:pranjeetgoswami999@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
+# 🧠 What I Build
 
 <div align="center">
 
-### ⚡ *Code. Design. AI. Scale.*
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌐
+### Web Apps
+
+Modern, responsive and scalable web applications using React & Next.js.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+### Mobile Apps
+
+Cross-platform applications with Flutter and Dart.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+### AI Systems
+
+AI agents, automations and intelligent workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+### Experiences
+
+Smooth animations, interactions and high-performance interfaces.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=js,ts,dart,php&theme=dark"/>
+
+<br><br>
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs&theme=dark"/>
+
+<br><br>
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+<br><br>
+
+### `DATABASE & CLOUD`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,appwrite&theme=dark"/>
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode,vercel&theme=dark"/>
+
+</div>
+
+---
+
+# 🧪 Currently Experimenting With
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-4F8BFF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-161B22?style=for-the-badge&logo=robot&logoColor=4F8BFF"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=parasharr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8BFF&icon_color=4F8BFF&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasharr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8BFF&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasharr&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8BFF&fire=4F8BFF&currStreakLabel=4F8BFF"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasharr&bg_color=0D1117&color=FFFFFF&line=4F8BFF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/parasharr">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=parasharr&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/parasharr">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=parasharr&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
+
+</div>
+
+> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repositories.
+
+---
+
+# 🧩 My Development Workflow
+
+```text
+        ┌──────────────┐
+        │    IDEA 💡   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   DESIGN 🎨  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    BUILD ⚡   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   TEST 🧪    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   DEPLOY 🚀  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   SCALE 📈   │
+        └──────────────┘
+```
+
+---
+
+# 🏢 Grox Studio
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GROX%20STUDIO-161B22?style=for-the-badge&logoColor=white"/>
+
+### Building brands.  
+### Building products.  
+### Building what's next.
+
+**Creative technology × Development × AI**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranjeetgoswami">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/pranjeet.dev">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:pranjeetgoswami999@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ CODE · DESIGN · AI · SCALE
 
 *"Fast doesn't have to be messy."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8BFF,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
