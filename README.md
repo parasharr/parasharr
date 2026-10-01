@@ -1,6 +1,3 @@
-Yes — you want **one clean Markdown code block that you can click Copy on and paste directly into `README.md`**, with no extra wrapper or weird formatting.
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F8BFF&height=220&section=header&text=PRANJEET%20GOSWAMI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=TECH%20LEAD%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn"/>
@@ -243,4 +240,3 @@ Smooth animations, interactions and high-performance interfaces.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8BFF,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
-```
