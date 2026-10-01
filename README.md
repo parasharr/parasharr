@@ -1,3 +1,6 @@
+Yes — you want **one clean Markdown code block that you can click Copy on and paste directly into `README.md`**, with no extra wrapper or weird formatting.
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F8BFF&height=220&section=header&text=PRANJEET%20GOSWAMI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=TECH%20LEAD%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn"/>
@@ -9,8 +12,8 @@
 <br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=parasharr&label=PROFILE+VIEWS&color=4F8BFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/parasharr?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=4F8BFF"/>
+<img src="https://komarev.com/ghpvc/?username=parasharr&label=PROFILE+VIEWS&color=4F8BFF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/parasharr?label=FOLLOWERS&style=for-the-badge&color=161B22&labelColor=4F8BFF"/>
 </p>
 
 <br>
@@ -22,9 +25,11 @@
 <a href="https://github.com/parasharr">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/pranjeetgoswami">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/pranjeet.dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -45,11 +50,8 @@ Pranjeet Goswami
 ```ts
 const developer = {
   name: "Pranjeet Goswami",
-
   role: "Co-Founder & Tech Lead",
-
   company: "Grox Studio",
-
   location: "Assam, India",
 
   focus: [
@@ -66,8 +68,7 @@ const developer = {
     "Modern web experiences"
   ],
 
-  philosophy:
-    "Ship fast. Build clean. Scale forever."
+  philosophy: "Ship fast. Build clean. Scale forever."
 };
 ```
 
@@ -79,10 +80,10 @@ const developer = {
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🌐
-### Web Apps
+### 🌐 Web Apps
 
 Modern, responsive and scalable web applications using React & Next.js.
 
@@ -90,8 +91,7 @@ Modern, responsive and scalable web applications using React & Next.js.
 
 <td align="center" width="25%">
 
-### 📱
-### Mobile Apps
+### 📱 Mobile Apps
 
 Cross-platform applications with Flutter and Dart.
 
@@ -99,8 +99,7 @@ Cross-platform applications with Flutter and Dart.
 
 <td align="center" width="25%">
 
-### 🤖
-### AI Systems
+### 🤖 AI Systems
 
 AI agents, automations and intelligent workflows.
 
@@ -108,12 +107,12 @@ AI agents, automations and intelligent workflows.
 
 <td align="center" width="25%">
 
-### ⚡
-### Experiences
+### ⚡ Experiences
 
 Smooth animations, interactions and high-performance interfaces.
 
 </td>
+
 </tr>
 </table>
 
@@ -162,9 +161,13 @@ Smooth animations, interactions and high-performance interfaces.
 <div align="center">
 
 <img src="https://img.shields.io/badge/AI%20Agents-4F8BFF?style=for-the-badge&logo=openai&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AI%20Automation-161B22?style=for-the-badge&logo=robot&logoColor=4F8BFF"/>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111"/>
 
 </div>
@@ -191,77 +194,16 @@ Smooth animations, interactions and high-performance interfaces.
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasharr&bg_color=0D1117&color=FFFFFF&line=4F8BFF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/parasharr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=parasharr&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<a href="https://github.com/parasharr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=parasharr&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-</div>
-
-> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repositories.
-
----
-
-# 🧩 My Development Workflow
-
-```text
-        ┌──────────────┐
-        │    IDEA 💡   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   DESIGN 🎨  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    BUILD ⚡   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   TEST 🧪    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   DEPLOY 🚀  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   SCALE 📈   │
-        └──────────────┘
-```
-
----
-
 # 🏢 Grox Studio
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/GROX%20STUDIO-161B22?style=for-the-badge&logoColor=white"/>
 
-### Building brands.  
-### Building products.  
+### Building brands.
+
+### Building products.
+
 ### Building what's next.
 
 **Creative technology × Development × AI**
@@ -301,3 +243,4 @@ Smooth animations, interactions and high-performance interfaces.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8BFF,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
+```
