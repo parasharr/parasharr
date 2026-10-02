@@ -211,6 +211,8 @@ Smooth animations, interactions and high-performance interfaces.
 
 <br>
 
+https://platane.github.io/snk/
+
 <div align="center">
 
 ### ⚡ CODE · DESIGN · AI · SCALE
