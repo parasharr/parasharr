@@ -35,8 +35,6 @@
 
 ---
 
-## ⚡ `whoami`
-
 <div align="center">
   <img src="./profile-card.gif" width="100%" alt="Parasharr Profile Card">
 </div>
