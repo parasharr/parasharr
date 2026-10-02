@@ -37,6 +37,10 @@
 
 ## ⚡ `whoami`
 
+<div align="center">
+  <img src="./parasharr-profile-card.gif" width="100%" alt="Parasharr Profile Card">
+</div>
+
 ```ts
 const developer = {
   name: "Pranjeet Goswami",
@@ -225,10 +229,3 @@ Smooth animations, interactions and high-performance interfaces.
 
 *"Fast doesn't have to be messy."*
 
-<br>
-
-<div align="center">
-  <img src="/cyberpunk.jpg"
-       width="100%"
-       alt="Cyberpunk Animation"/>
-</div>
