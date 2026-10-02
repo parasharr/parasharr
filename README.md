@@ -227,6 +227,8 @@ Smooth animations, interactions and high-performance interfaces.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8BFF,50:161B22,100:0D1117&height=120&section=footer"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjgwYXg4MXQydjdnYTdncGdvMDkzZWpjdTZqYTJ3OGhzcTBrZ2h0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/opqJNoXOnulBP9UJ54/giphy.gif" width="100%"/>
 
 </div>
