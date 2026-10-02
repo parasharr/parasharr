@@ -189,6 +189,21 @@ Smooth animations, interactions and high-performance interfaces.
 
 </div>
 
+
+<div align="center">
+
+<img src="./space-shooter.webp" width="100%" alt="GitHub Space Shooter"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E%3E%3E+CONTRIBUTION+SYSTEM+ONLINE;%3E%3E%3E+TARGETS+DETECTED...;%3E%3E%3E+ENGAGING+TARGETS...;%3E%3E%3E+SYSTEM+OPERATIONAL." />
+
+<br>
+
+### `⚡ CONTRIBUTIONS // TARGETS // CODE // CHAOS ⚡`
+
+</div>
+
 ---
 
 # 🌐 Let's Connect
@@ -210,7 +225,6 @@ Smooth animations, interactions and high-performance interfaces.
 </div>
 
 <br>
-
 
 <div align="center">
 
