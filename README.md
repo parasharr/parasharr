@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:4F8BFF&height=220&section=header&text=PRANJEET%20GOSWAMI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=TECH%20LEAD%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Hello%2C+I+am+Zane+%21%F0%9F%91%8B" />
 
 <br>
 
