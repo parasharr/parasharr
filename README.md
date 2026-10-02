@@ -229,6 +229,6 @@ Smooth animations, interactions and high-performance interfaces.
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjgwYXg4MXQydjdnYTdncGdvMDkzZWpjdTZqYTJ3OGhzcTBrZ2h0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/opqJNoXOnulBP9UJ54/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjgwYXg4MXQydjdnYTdncGdvMDkzZWpjdTZqYTJ3OGhzcTBrZ2h0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/opqJNoXOnulBP9UJ54/giphy.gif" width="500"/>
 
 </div>
