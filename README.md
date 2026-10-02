@@ -195,7 +195,7 @@ Smooth animations, interactions and high-performance interfaces.
 
 <br>
 
-### `⚡ CONTRIBUTIONS // TARGETS // CODE // CHAOS ⚡`
+### `⚡ CONTRIBUTIONS | TARGETS | CODE | CHAOS ⚡`
 
 </div>
 
