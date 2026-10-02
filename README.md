@@ -37,13 +37,6 @@
 
 ## ⚡ `whoami`
 
-```bash
-┌──(pranjeet㉿developer)-[~/projects]
-└─$ whoami
-
-Pranjeet Goswami
-```
-
 ```ts
 const developer = {
   name: "Pranjeet Goswami",
