@@ -191,24 +191,6 @@ Smooth animations, interactions and high-performance interfaces.
 
 ---
 
-# 🏢 Grox Studio
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GROX%20STUDIO-161B22?style=for-the-badge&logoColor=white"/>
-
-### Building brands.
-
-### Building products.
-
-### Building what's next.
-
-**Creative technology × Development × AI**
-
-</div>
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
