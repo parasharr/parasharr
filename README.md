@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Welcome%2C+to+the+Profile+%21%F0%9F%91%8B" />
+<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=Welcome%2C+to+the+Profile" />
 
 <br>
 
